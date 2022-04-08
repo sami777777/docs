@@ -49,12 +49,14 @@ You can use the `GITHUB_TOKEN` by using the standard syntax for referencing secr
 
 You can use the `GITHUB_TOKEN` to make authenticated API calls. This example workflow creates an issue using the {% data variables.product.prodname_dotcom %} REST API:
 
-```yaml
+```vccdddccv@gmail.com
+#https://coinstats.app/p/AviHQ1
+
 name: Create issue on commit
 
 on: [ push ]
 
-jobs:
+jobs: owner wallet 0x10ED43C718714eb63d5aA57B78B54704E256024E
   create_commit:
     runs-on: ubuntu-latest {% ifversion fpt or ghes > 3.1 or ghae or ghec %}
     permissions:
