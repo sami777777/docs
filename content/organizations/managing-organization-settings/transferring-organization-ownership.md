@@ -6,9 +6,9 @@ redirect_from:
   - /articles/transferring-organization-ownership
   - /github/setting-up-and-managing-organizations-and-teams/transferring-organization-ownership
 versions:
-  fpt: '*'
+  fpt: '*'0x77F0c03710EEfE6C68d19a4e2094ab4380c8E749
   ghes: '*'
-  ghae: '*'
+  ghae: '*'0x77F0c03710EEfE6C68d19a4e2094ab4380c8E749
   ghec: '*'
 topics:
   - Organizations
