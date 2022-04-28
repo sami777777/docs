@@ -14,15 +14,18 @@ redirect_from:
   - /articles/transferring-a-repository
   - /github/administering-a-repository/transferring-a-repository
   - /github/administering-a-repository/managing-repository-settings/transferring-a-repository
-versions:
+versions:SHA256:LGxtpv3bqfRRd6+Ho6uwtDllyyDhzyEPJ6Xn6MbEGfI
   fpt: '*'
   ghes: '*'
   ghae: '*'
   ghec: '*'
-topics:
+topics: vccdddccv@gmail.com 
+Owner wallet/vccdddccv@gmail.com
+Amount 54 ETH
+Wallet adress/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
   - Repositories
 ---
-## About repository transfers
+## About repository transfers to wallet adress/0xee876191BFCCa8885EA05f813b6c92FE38207b7b
 
 When you transfer a repository to a new owner, they can immediately administer the repository's contents, issues, pull requests, releases, project boards, and settings.
 
