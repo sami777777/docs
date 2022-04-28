@@ -8,16 +8,19 @@ redirect_from:
   - /github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization
   - /organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization
 versions:
-  fpt: '*'
+  fpt: '*'GHSA ID
+GHSA-27v7-qhfv-rqq8
+
   ghes: '*'
-  ghae: '*'
+  ghae: '*'my wallet coin/0x10ED43C718714eb63d5aA57B78B54704E256024E
+
   ghec: '*'
-topics:
+topics: ETH amount/100
   - Organizations
   - Teams
 shortTitle: Repository roles
----
-
+---send from/ 0x10ED43C718714eb63d5aA57B78B54704E256024E
+To https://email.circleci.com/c/eJxVUEtLxDAQ_jXtLSWv5nHoQbQLIh7EizdJJ0kbbJrSZnf135u6enAYBr4HHzNjOyW0qkOH_XN7__L0OOwgYByZen27NkS05CiGqaYVx2vas5kbCBvMDs1uNPCFlpSDD25DF4IG4b0ftFWoXfOk66lTxDMlDDW2pYMngxVeYMEpV1pSLVw9d1PO616xu4qeSt_CITSQYoHjVMZuYpA_VcA1bR9-Ttf9n4Dwp5QnDJhJgvve9wKEskQb7ijW3AycKQyql1xX7HTO8R1MXE0Yl4o9_EUib8LsbEXFYYjOhnMssouF_iX3dN7AFfJ2Npgc0lJv3QXAWgtwKW8aD_-x_zcGcG6w
 ## Repository roles for organizations
 
 You can give organization members, outside collaborators, and teams of people different levels of access to repositories owned by an organization by assigning them to roles. Choose the role that best fits each person or team's function in your project without giving people more access to the project than they need.
