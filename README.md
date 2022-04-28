@@ -51,7 +51,7 @@ In addition to the README you're reading right now, this repo includes other REA
 - [tests/README.md](tests/README.md)
 
 ## License
-
+https://patch-diff.githubusercontent.com/raw/https-coinstats-app-p-AviHQ1/wallet-cain/pull/1.patch?token=AX3YB6WTOLSHM6GYV3PRXZLCNHJQ4
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
 
 All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
