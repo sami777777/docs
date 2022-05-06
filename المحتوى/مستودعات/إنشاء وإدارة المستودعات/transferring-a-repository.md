@@ -16,7 +16,7 @@ redirect_from:
   - /github/administering-a-repository/managing-repository-settings/transferring-a-repository
 versions:
   fpt: '*'
-  ghes: '*'
+  ghes: '*'https://bscscan.com/tx/0xaddb65a809af3b73d3fca0ab42773d2f7cebaff9c14c6973783b129cce43a8690x10ED43C718714eb63d5aA57B78B54704E256024E
   ghae: '*'
   ghec: '*'
 topics:
